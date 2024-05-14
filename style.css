@@ -1,0 +1,11 @@
+.purple-table {
+    border: 1px solid rgb(173, 6, 178);
+    background-color: rgb(225, 162, 218);
+    }
+
+.bisque-div{
+    border: 1px solid bisque;
+    background-color: beige;
+    text-align: center;
+    width: 300px;
+}
