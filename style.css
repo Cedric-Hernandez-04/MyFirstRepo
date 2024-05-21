@@ -9,3 +9,6 @@
     text-align: center;
     width: 300px;
 }
+.light-background{
+    background-color: rgb(125, 125, 125);
+}
